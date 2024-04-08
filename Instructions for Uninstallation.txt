@@ -1,0 +1,3 @@
+在max的usermacro文件夹下，删除_ZZS_Skin_Util-Macro_Check.mcr
+在max的scripts文件夹下，删除test_tool_cn.ms
+在max的scripts文件夹下，删除Macro_test.ms

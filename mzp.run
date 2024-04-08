@@ -1,0 +1,6 @@
+name "mzp_test"
+
+copy *.ms to $scripts
+copy *.mcr to $scripts
+
+run "$scripts\\Macro_test.mcr"
